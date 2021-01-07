@@ -1,0 +1,94 @@
+Indicator Name,Total Count,Null Count,Non-Null Count
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",7160,179,6981
+Age dependency ratio (% of working-age population),7160,31,7129
+"Age population, age 0, female, interpolated",7160,28,7132
+"Age population, age 0, male, interpolated",7160,28,7132
+"Age population, age 01, female, interpolated",7160,28,7132
+"Age population, age 01, male, interpolated",7160,28,7132
+"Age population, age 02, female, interpolated",7160,28,7132
+"Age population, age 02, male, interpolated",7160,28,7132
+"Age population, age 03, female, interpolated",7160,28,7132
+"Age population, age 03, male, interpolated",7160,28,7132
+"Age population, age 04, female, interpolated",7160,28,7132
+"Age population, age 04, male, interpolated",7160,28,7132
+"Age population, age 05, female, interpolated",7160,28,7132
+"Age population, age 05, male, interpolated",7160,28,7132
+"Birth rate, crude (per 1,000 people)",7160,203,6957
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+"Death rate, crude (per 1,000 people)",7160,203,6957
+"Employers, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Employers, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+"Employment in industry, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+"Employment in services, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Employment in services, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",7160,1998,5162
+"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",7160,1998,5162
+"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",7160,1998,5162
+"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",7160,1998,5162
+"Fertility rate, total (births per woman)",7160,219,6941
+GDP (current US$),7160,573,6587
+GDP growth (annual %),7160,647,6513
+GDP per capita (constant 2010 US$),7160,637,6523
+GDP per capita (Current US$),7160,576,6584
+"GNI per capita, Atlas method (current US$)",7160,931,6229
+"GNI, Atlas method (current US$)",7160,930,6230
+"Immunization, DPT (% of children ages 12-23 months)",7160,641,6519
+"Immunization, measles (% of children ages 12-23 months)",7160,727,6433
+"Inflation, consumer prices (annual %)",7160,1395,5765
+"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",7160,1820,5340
+"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",7160,1820,5340
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",7160,1820,5340
+"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",7160,1820,5340
+"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",7160,1820,5340
+"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",7160,1820,5340
+"Labor force, female",7160,1831,5329
+"Labor force, female (% of total labor force)",7160,1831,5329
+"Labor force, total",7160,1831,5329
+"Life expectancy at birth, female (years)",7160,207,6953
+"Life expectancy at birth, male (years)",7160,207,6953
+"Mortality rate, infant, female (per 1,000 live births)",7160,132,7028
+"Mortality rate, infant, male (per 1,000 live births)",7160,132,7028
+"Mortality rate, under-5, female (per 1,000 live births)",7160,132,7028
+"Mortality rate, under-5, male (per 1,000 live births)",7160,132,7028
+"Number of infant deaths, female",7160,133,7027
+"Number of infant deaths, male",7160,133,7027
+"Number of under-five deaths, female",7160,223,6937
+"Number of under-five deaths, male",7160,223,6937
+"Own-account workers, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Own-account workers, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+Population ages 0-14 (% of total),7160,28,7132
+"Population ages 0-14, female",7160,31,7129
+Population ages 15-64 (% of total),7160,28,7132
+"Population ages 15-64, female",7160,31,7129
+"Population ages 15-64, male",7160,31,7129
+"Population ages 15-64, total",7160,31,7129
+Population ages 65 and above (% of total),7160,28,7132
+"Population ages 65 and above, female",7160,31,7129
+"Population, female",7160,31,7129
+"Population, female (% of total)",7160,28,7132
+"Population, total",7160,31,7129
+"Prevalence of obesity, female (% of female population ages 18+)",7160,685,6475
+"Prevalence of obesity, male (% of male population ages 18+)",7160,685,6475
+"Prevalence of overweight, female (% of female adults)",7160,685,6475
+"Prevalence of overweight, male (% of male adults)",7160,685,6475
+"Primary education, pupils (% female)",7160,1692,5468
+Ratio of female to male labor force participation rate (%) (modeled ILO estimate),7160,1820,5340
+Ratio of female to male youth unemployment rate (% ages 15-24) (modeled ILO estimate),7160,1998,5162
+"School enrollment, primary (gross), gender parity index (GPI)",7160,1680,5480
+"School enrollment, primary, female (% gross)",7160,1680,5480
+"School enrollment, primary, male (% gross)",7160,1680,5480
+"Self-employed, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Self-employed, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+"Unemployment, female (% of female labor force) (modeled ILO estimate)",7160,1998,5162
+"Unemployment, male (% of male labor force) (modeled ILO estimate)",7160,1998,5162
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",7160,1998,5162
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",7160,1998,5162
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",7160,1998,5162
+"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",7160,1998,5162
+Women Business and the Law Index Score (scale 1-100),7160,40,7120
